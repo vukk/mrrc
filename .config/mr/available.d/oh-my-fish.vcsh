@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/oh-my-fish.git]
+checkout = mkdir ~/.oh-my-fish; VCSH_BASE=~/.oh-my-fish vcsh clone git@github.com:vukk/oh-my-fish.git oh-my-fish
